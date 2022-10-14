@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alsond6
 - 👀 I’m interested in web development (frontend and backend)
-- 🌱 I’m currently learning python c# javascript
+- 🌱 I’m currently interested in build dapp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
