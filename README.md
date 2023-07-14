@@ -5,10 +5,11 @@
 
 - 👯 I’m looking to collaborate on [Baklava Design](https://github.com/Trendyol/baklava)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmet-idris-239127234/](https://www.linkedin.com/in/ahmet-idris-239127234/)
+- 📄 Know about my experiences [from LinkedIn](https://www.linkedin.com/in/ahmet-idris-239127234/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  [LinkedIn](https://www.linkedin.com/in/ahmet-idris-239127234/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
